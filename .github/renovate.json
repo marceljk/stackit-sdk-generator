@@ -5,7 +5,7 @@
     ],
     "prHourlyLimit": 10,
     "repositories": [
-        "stackitcloud/stackit-sdk-generator"
+        "marceljk/stackit-sdk-generator"
     ],
     "enabledManagers": [
         "github-actions",
